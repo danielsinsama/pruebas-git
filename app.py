@@ -1,5 +1,3 @@
-print('texto')
-print('texto')
-print('texto')
-print('texto')
-print('texto')
+for i in range(1,5):
+    print('texto')
+# optimizando
